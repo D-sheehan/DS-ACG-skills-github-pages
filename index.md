@@ -1,3 +1,8 @@
----
-title: Welcome to my blog!
+# David Sheehan
+
+###### Senior Consultant
+
+## Augmentation Consulting Group
+
+###### Welcome to my blog!
 ---
